@@ -1,0 +1,15 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "title": "Mining Machines",
+      "desc":"blabalalalala"
+      
+    },
+    {
+    "id": 2,
+      "title": "Auto Driving Machines",
+      "desc":"blabalalalala"
+    }
+  ]
+}
